@@ -1,0 +1,15 @@
+/workspaces/dot-net/learning/bin/Debug/net8.0/learning
+/workspaces/dot-net/learning/bin/Debug/net8.0/learning.deps.json
+/workspaces/dot-net/learning/bin/Debug/net8.0/learning.runtimeconfig.json
+/workspaces/dot-net/learning/bin/Debug/net8.0/learning.dll
+/workspaces/dot-net/learning/bin/Debug/net8.0/learning.pdb
+/workspaces/dot-net/learning/obj/Debug/net8.0/learning.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dot-net/learning/obj/Debug/net8.0/learning.AssemblyInfoInputs.cache
+/workspaces/dot-net/learning/obj/Debug/net8.0/learning.AssemblyInfo.cs
+/workspaces/dot-net/learning/obj/Debug/net8.0/learning.csproj.CoreCompileInputs.cache
+/workspaces/dot-net/learning/obj/Debug/net8.0/learning.sourcelink.json
+/workspaces/dot-net/learning/obj/Debug/net8.0/learning.dll
+/workspaces/dot-net/learning/obj/Debug/net8.0/refint/learning.dll
+/workspaces/dot-net/learning/obj/Debug/net8.0/learning.pdb
+/workspaces/dot-net/learning/obj/Debug/net8.0/learning.genruntimeconfig.cache
+/workspaces/dot-net/learning/obj/Debug/net8.0/ref/learning.dll
